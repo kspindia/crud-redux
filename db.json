@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "pushkar kumar",
+      "id": 2,
+      "address": "patna, bihar",
+      "contact": "99990000",
+      "email": "pushkar@gmail.com"
+    },
+    {
+      "name": "surya faraz",
+      "email": "surya123@gmail.com",
+      "contact": "999999888",
+      "address": "paldi guj",
+      "id": 4
+    },
+    {
+      "name": "sameer",
+      "email": "s@outlook.com",
+      "contact": "534345",
+      "address": "darjeeling",
+      "id": 6
+    }
+  ]
+}
